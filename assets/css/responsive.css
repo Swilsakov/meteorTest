@@ -1,0 +1,937 @@
+@media (max-width: 1269px) {
+    .b-header{
+        top: 35px;
+    }
+    .b-nav{
+        padding: 35px 0 35px 0;
+    }
+    .b-promo{
+        padding: 150px 0 0 0;
+    }
+    .b-promo__title{
+        font-size: 64px;
+        line-height: 67px;
+    }
+    p{
+        font-size: 19px;
+        line-height: 31px;
+    }
+    .b-promo__text-item{
+        font-size: 35px;
+        top: 25px;
+        right: 234px;
+    }
+    .b-text{
+        padding: 0;
+    }
+    .b-expedition__left{
+        margin-right: 40px;
+    }
+    .b-expedition__left br{
+        display: none;
+    }
+    .b-expedition__right{
+        width: 58%;
+    }
+    .b-text p{
+        font-size: 17px;
+        line-height: 1.65;
+    }
+    .b-expedition__item{
+        margin-right: 44px;
+    }
+    .b-tokenomics__row{
+        justify-content: center !important;
+    }
+    .b-tokenomics__container{
+        display: block;
+    }
+    .b-tokenomics__left{
+        margin: 0 95px 0 0;
+    }
+    .b-tokenomics__left-text{
+        top: 170px;
+        right: auto;
+        left: 30px;
+    }
+    .b-tokenomics__block{
+        margin: 0 0 30px 0;
+    }
+    .b-tokenomics__row{
+        margin-bottom: 100px;
+    }
+    .b-tokenomics__bottom{
+        display: block;
+        padding: 0;
+    }
+    .b-tokenomics__bottom-left{
+        max-width: 100%;
+    }
+    .b-tokenomics__item{
+        margin-right: 56px;
+        width: 100%;
+    }
+    .b-meteorite__row-img img{
+        max-width: 180px;
+    }
+    .b-meteorite__row-img{
+        top: 0;
+        left: -104px;
+    }
+    .b-partners__item:not(:last-child){
+        margin-right: 15px;
+    }
+    .b-roadmap__row:before{
+        display: none;
+    }
+    .b-roadmap__item:after{
+        display: none;
+    }
+    .b-roadmap__row{
+        display: block;
+        padding: 0;
+        margin: 0;
+    }
+    .b-roadmap__item{
+        padding: 0 0 15px 0;
+        position: relative;
+        top: auto;
+        left: auto;
+        right: auto;
+        margin: 0 !important;
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
+        flex-direction: row !important;
+    }
+    .b-roadmap__item-ico{
+        margin: 0 14px 0 0 !important;
+        flex-shrink: 0;
+    }
+    .b-roadmap .tab-content:before{
+        display: none;
+    }
+    .b-roadmap__desc{
+        position: static;
+        max-width: inherit;
+        margin: 25px 0;
+    }
+    .b-roadmap__item-wrap{
+        padding: 11px 0 0 0;
+    }
+    .b-roadmap__item:before{
+        position: absolute;
+        top: 7px;
+        left: 14px;
+        content: "";
+        width: 2px;
+        height: 100%;
+        background: #B6BAC2;
+    }
+    .b-roadmap__item:last-child:before{
+        display: none;
+    }
+    .b-roadmap__item-name br{
+        display: none;
+    }
+    .b-roadmap__top{
+        display: block;
+    }
+    .b-roadmap__top .b-title{
+        margin-bottom: 20px;
+    }
+    .b-team__text{
+        width: 280px;
+        padding: 33px 25px 33px 25px;
+    }
+    .b-team__right{
+        padding: 45px 20px 0 20px;
+        width: 71%;
+    }
+    .b-team__text p span{
+        font-size: 21px;
+    }
+    .b-team__text:after{
+        width: 115px;
+        height: 118px;
+        background-size: contain;
+        right: -59px;
+    }
+    .b-team__tabs .tab-pane{
+        padding: 20px 40px 20px 20px;
+    }
+    .b-meteorite__container{
+        display: block;
+        padding: 25px 15px;
+    }
+    .b-meteorite__container-left{
+        width: auto;
+        margin-right: 0px;
+    }
+    .b-meteorite .b-text {
+        margin-bottom: 15px;
+    }
+    .b-meteorite__container-title{
+        margin-bottom: 10px;
+    }
+    .b-meteorite__container-wrap{
+        margin-bottom: 10px;
+        padding: 0;
+    }
+    .b-meteorite__row-block b{
+        font-size: 15px;
+    }
+    .b-meteorite__row-block p{
+        font-size: 14px;
+    }
+    .b-meteorite__row-block{
+        margin-bottom: 0px;
+    }
+    .b-meteorite__row-item b{
+        font-size: 14px;
+    }
+    .b-meteorite__row-item:not(:last-child){
+        margin-bottom: 5px;
+    }
+    .b-meteorite__row-left{
+        padding: 20px 15px;
+    }
+    .b-meteorite__row-right{
+        padding: 15px 37px 15px 125px;
+    }
+    .b-meteorite__container{
+        margin-bottom: 100px;
+    }
+    .b-meteorite__row{
+        top: 100%;
+    }
+    .b-meteorite__container-block{
+        top: 119%;
+        left: -384px;
+    }
+    .b-roadmap:before{
+        top: -162px;
+    }
+}
+@media (max-width: 991px) {
+    .bg-1{
+        background: url("../images/main-bg-tablet.png") center top no-repeat;
+        background-size: cover;
+    }
+    .b-header{
+        top: 20px;
+    }
+    .b-nav{
+        padding: 20px 0 55px 0;
+    }
+    .b-logo{
+        width: 37px;
+        height: 37px;
+    }
+    .b-logo img{
+        display: none;
+    }
+    .b-logo .b-logo__xs{
+        display: block;
+    }
+    .b-promo__title{
+        font-size: 44px;
+        line-height: 49px;
+        max-width: 454px;
+    }
+    .b-promo__text-item{
+        font-size: 26px;
+        top: 15px;
+        right: auto;
+        left: 271px;
+        white-space: nowrap;
+    }
+    .b-promo__text{
+        max-width: 350px;
+        margin-bottom: 25px;
+    }
+    .b-line{
+        margin: 18px 34px 0 34px;
+    }
+    .b-nav ul{
+        padding: 12px 64px 0 0;
+    }
+    .b-promo{
+        padding: 90px 0 0 0;
+        position: relative;
+        z-index: 2;
+    }
+    .b-promo__btns{
+        display: block;
+    }
+    .btn-buy{
+        margin: 0 0 20px 0;
+        width: 288px;
+    }
+    .btn-video{
+        width: 288px;
+    }
+    .b-expedition{
+        position: static;
+        padding: 35px 0 0 0;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+    .b-expedition__left{
+        margin: 0;
+        padding: 0;
+    }
+    .b-expedition .container{
+        display: block !important;
+    }
+    .b-expedition__block{
+        position: absolute;
+        bottom: 255%;
+        right: -141px;
+    }
+    .b-expedition__block img{
+        max-width: 437px;
+    }
+    .b-expedition__block-btn{
+        top: 9px;
+        left: 46px;
+    }
+    .b-expedition__block-text{
+        top: 56px;
+        left: -85px;
+    }
+    .b-expedition__right:before{
+        display: none;
+    }
+    .b-promo__btns:before {
+        position: absolute;
+        top: 345px;
+        right: 98px;
+        content: "";
+        background: url(../images/exp-bg.png) center top no-repeat;
+        background-size: contain;
+        width: 462px;
+        height: 408px;
+        z-index: -1;
+    }
+    .b-expedition__right{
+        width: auto;
+    }
+    .b-expedition__row{
+        justify-content: space-between !important;
+        padding-left: 30px;
+        padding-right: 30px;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        margin-top: 40px;
+    }
+    .b-expedition__item{
+        margin-right: 0px;
+        width: auto;
+    }
+    .b-title{
+        font-size: 20px;
+    }
+    .b-meteorite{
+        padding: 50px 0 26px 0;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+    .b-tokenomics__right-item{
+        margin-bottom: 20px;
+    }
+    .b-tokenomics__block{
+        margin-right: 90px;
+        margin-left: 61px;
+    }
+    .b-tokenomics__right-text{
+        font-size: 22px;
+        line-height: 25px;
+        margin-bottom: 20px;
+    }
+    .b-tokenomics__block{
+        background-size: contain;
+        width: 238px;
+        height: 238px;
+        top: 235px;
+        position: absolute;
+        right: 5px;
+    }
+    .b-tokenomics__container{
+        padding: 0;
+    }
+    .b-tokenomics__block-text{
+        padding: 5px 6px;
+    }
+    .b-tokenomics__item-title{
+        line-height: 20px;
+        margin-bottom: 15px;
+    }
+    .b-tokenomics__item-title span{
+        display: block;
+    }
+    .b-tokenomics__bottom-left{
+        padding: 32px 30px;
+    }
+    .b-tokenomics__left{
+        width: 100%;
+        margin: 0 0 35px 0;
+    }
+    .b-tokenomics__right{
+        padding: 0;
+    }
+    .b-tokenomics__row{
+        margin-bottom: 120px;
+    }
+    .b-tokenomics__bottom-right:after{
+        display: none;
+    }
+    .b-news__item{
+        display: block;
+    }
+    .b-news__item-img{
+        display: none;
+    }
+    .b-news__item-name{
+        font-size: 22px;
+        line-height: 25px;
+        margin-bottom: 15px;
+    }
+    .b-news__item-text p{
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .b-partners__content{
+        flex-wrap: wrap;
+        justify-content: flex-start !important;
+    }
+    .b-footer__content{
+        padding: 35px 0;
+    }
+    .b-roadmap__nav {
+        margin: 0 -15px 0 0;
+    }
+    .b-roadmap__nav ul{
+        overflow-y: auto;
+        scrollbar-width: none;
+    }
+    .b-roadmap__nav ul::-webkit-scrollbar {
+        width: 0;
+    }
+    .b-roadmap__nav ul li{
+        flex-shrink: 0;
+    }
+    .b-team__container{
+        display: block;
+    }
+    .b-team__text{
+        width: 100%;
+        padding: 30px;
+    }
+    .b-team__text:after{
+        width: 159px;
+        height: 162px;
+        right: -47px;
+    }
+    .b-team__right{
+        width: 100%;
+        padding: 30px 30px 0 30px;
+    }
+    .b-team__top{
+        padding: 0;
+        margin: 0 0 50px 0;
+    }
+    .b-team__item-name{
+        padding: 0 40px;
+    }
+
+    .b-meteorite__container{
+        display: block;
+        padding-bottom: 55px;
+    }
+    .b-meteorite__container-left{
+        width: auto;
+    }
+    .b-meteorite__row{
+        position: static;
+        margin: 140px auto 0;
+        width: 750px;
+    }
+    .b-meteorite__container-block{
+        top: auto;
+        bottom: -330px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .b-meteorite__row-item b{
+        font-size: 17px;
+    }
+    .b-meteorite__row-item:not(:last-child) {
+        margin-bottom: 15px;
+    }
+    .b-meteorite__row-left {
+        padding: 25px 125px 25px 40px;
+        width: 436px;
+    }
+    .b-meteorite__row-block p{
+        font-size: 16px;
+    }
+    .b-meteorite__row-block{
+        margin-bottom: 17px;
+    }
+    .b-meteorite__row-img img{
+        max-width: 100%;
+    }
+    .b-meteorite__row-right {
+        width: 288px;
+        padding: 25px 37px 15px 75px;
+    }
+    .b-meteorite__row-img{
+        left: -162px;
+    }
+    .b-meteorite__row-block b{
+        line-height: 1.25;
+    }
+    .b-tokenomics__row{
+        flex-wrap: wrap;
+        justify-content: flex-start !important;
+        margin-bottom: 10px;
+    }
+    .b-tokenomics__left .wrap{
+        align-items: flex-start;
+    }
+    .b-meteorite__container-block img{
+        max-width: 454px;
+    }
+    .b-team{
+        padding: 0 0 30px 0;
+        background: #151A24;
+    }
+
+    .b-meteorite:before{
+        background: url("../images/bg2md.png") center no-repeat;
+        background-size: cover;
+        height: 1475px;
+        top: -429px;
+    }
+    .b-tokenomics:before{
+        background: url("../images/bg3md.png") center top no-repeat;
+        background-size: cover;
+        top: -797px;
+    }
+    .b-roadmap:before{
+        background: url("../images/bg4md.png") center top no-repeat;
+        background-size: cover;
+        top: -51px;
+    }
+    .b-tokenomics{
+        padding: 0 0 30px 0;
+    }
+    .b-roadmap__desc{
+        margin: 15px 0;
+    }
+    .b-roadmap__item-year{
+        margin-bottom: 5px;
+    }
+    .b-roadmap__item{
+        padding: 0 0 5px 0;
+    }
+    .b-roadmap__item:last-child{
+        padding-top: 5px;
+    }
+    .b-roadmap__item-month{
+        margin-bottom: 5px;
+    }
+    .b-roadmap{
+        padding: 30px 0 40px 0;
+    }
+
+}
+@media (max-width: 767px) {
+    .animate-top , .animate-left , .animate-right , .animate-down , .animate-right__fast , .animate-left__fast , .animate-back-in-right{
+        opacity: 1;
+        transition: 1s;
+    }
+    .b-header{
+        opacity: 1;
+        visibility: visible;
+    }
+    .b-nav{
+        padding: 15px 15px 25px 15px;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+    .b-nav .b-logo{
+        display: none;
+    }
+    .b-line{
+        display: none;
+    }
+    .b-nav ul li:not(:last-child) {
+        margin-bottom: 17px;
+    }
+    .b-header.open-nav .b-logo{
+        opacity: 1;
+        visibility: visible;
+    }
+    .b-promo__title{
+        font-size: 34px;
+        line-height: 41px;
+        margin-bottom: 15px;
+    }
+    .b-promo__text-item{
+        position: static;
+        white-space: normal;
+        margin-bottom: 10px;
+    }
+    p{
+        font-size: 18px;
+    }
+    .b-expedition__block{
+        position: static;
+        padding: 70px 0 0 0;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+    .b-promo__btns:before{
+        display: none;
+    }
+    .b-expedition__right:after{
+        display: none;
+    }
+    .b-expedition__row:before{
+        display: none;
+    }
+    .b-expedition__block img{
+        max-width: 100%;
+        margin: 0;
+    }
+    .b-expedition__block img{
+        margin: 0 auto 0;
+    }
+    .b-expedition__block-btn {
+        top: 20px;
+        left: 51px;
+    }
+    .b-expedition__block-text{
+        top: 26px;
+        left: 120px;
+        text-align: left;
+    }
+    .b-expedition__row{
+        padding: 0;
+        margin-left: -20px;
+        margin-right: -20px;
+    }
+    .b-expedition__item{
+        width: 50%;
+        margin-bottom: 30px;
+        padding: 0 20px;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+    .b-tokenomics__block{
+        top: 0;
+        margin: 0 auto 62px;
+    }
+    .b-tokenomics__left-text{
+        position: static;
+        margin: 26px 0 0 18px;
+    }
+    .b-tokenomics__left{
+        margin: 0 0 55px 0;
+    }
+    .b-tokenomics__bottom-left{
+        display: block;
+        padding: 20px 20px 25px 20px;
+    }
+    .b-tokenomics__item{
+        margin: 0 0 25px 0;
+    }
+    .b-tokenomics__item:last-child{
+        margin-bottom: 0px;
+    }
+    .b-tokenomics__bottom-img {
+        top: -35px;
+        right: -198px;
+    }
+    .b-tokenomics__row{
+        margin-bottom: 0px;
+    }
+    .b-news__col{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .b-news__col:last-child{
+        margin-bottom: 0px;
+    }
+    .b-news__item-date{
+        margin-top: 15px;
+    }
+    .b-partners__content{
+        justify-content: center !important;
+    }
+    .b-partners__item{
+        width: 100%;
+    }
+    .b-partners__item img{
+        margin: 0 auto 0;
+    }
+    .b-partners__item:not(:last-child){
+        margin-bottom: 15px;
+    }
+    .b-partners__item:nth-child(3){
+        margin: 0;
+    }
+    .b-partners{
+        padding: 30px 0 42px 0;
+    }
+    .b-footer__content{
+        display: block !important;
+    }
+    .b-social{
+        display: block !important;
+        text-align: center;
+    }
+    .b-social__title{
+        margin: 0 0 15px 0;
+    }
+    .b-social ul{
+        justify-content: center !important;
+    }
+    .b-footer__logo{
+        width: 34px !important;
+        flex-shrink: 0;
+    }
+    .b-copyright{
+        width: 160px;
+        line-height: 25px;
+    }
+    .b-footer__left{
+        justify-content: center !important;
+        margin-bottom: 20px;
+    }
+    .b-footer__content{
+        padding: 30px 0;
+    }
+    .ui-slider-handle-value , .ui-slider-handle-value2{
+        bottom: -36px;
+        background: rgba(14, 66, 101, 1);
+    }
+    .b-roadmap__bottom{
+        position: static;
+        text-align: center;
+        display: block;
+    }
+    .b-roadmap__bottom-wrap{
+        padding: 0;
+    }
+    .b-roadmap__bottom b{
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .b-roadmap__row{
+        margin-bottom: 20px;
+    }
+    .b-team__item{
+        width: 139px;
+        margin-right: 28px;
+    }
+    .b-team__item-name{
+        padding: 0 5px;
+    }
+    .b-team__right{
+        padding: 15px 20px 0 20px;
+    }
+    .b-team__right:after{
+        display: none;
+    }
+    .b-team__item{
+        padding: 20px 0 25px 0;
+    }
+    .b-team__text{
+        padding: 20px;
+    }
+    .b-team__top p{
+        font-size: 16px;
+    }
+    .b-team__text:after{
+        right: -86px;
+    }
+    .b-team__text p span{
+        padding-right: 61px;
+        font-size: 22px;
+        line-height: 25px;
+    }
+    .b-team__container{
+        margin-top: 30px;
+    }
+    .b-meteorite__btn{
+        top: auto;
+        bottom: 0;
+        left: 50%;
+        right: auto;
+        transform: translateX(-50%);
+    }
+    .b-header .container{
+        position: static;
+    }
+    .b-meteorite__container-title{
+        font-size: 22px;
+        line-height: 25px;
+    }
+    .b-meteorite__container-left{
+        position: static;
+    }
+    .b-meteorite__container-block{
+        top: auto;
+        bottom: -170px;
+    }
+    .b-meteorite__btn{
+        bottom: 50px;
+    }
+    .b-meteorite__row{
+        width: auto;
+        display: block;
+    }
+    .b-meteorite__row-left{
+        width: auto;
+        padding: 25px 20px;
+    }
+    .b-meteorite__row-right{
+        width: auto;
+        padding: 25px 20px 25px 113px;
+    }
+    .b-meteorite__row-left:before{
+        display: none;
+    }
+    .b-meteorite__row-img {
+        left: -133px;
+    }
+    .b-meteorite{
+        padding: 20px 0 50px 0;
+    }
+    .b-tokenomics__block{
+        position: relative;
+        top: auto;
+        right: auto;
+        left: auto;
+        width: 205px;
+        height: 205px;
+    }
+    .b-tokenomics__left .wrap{
+        display: block;
+    }
+    .b-tokenomics__left .wrap-col{
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
+        margin: 0 0 25px 0;
+    }
+    .b-tokenomics__left-text{
+        margin: 0;
+    }
+    .b-tokenomics__left-text:not(:last-child){
+        margin-bottom: 20px;
+    }
+    .b-tokenomics__left-text b{
+        font-size: 28px;
+    }
+    .b-tokenomics__left .wrap-col .b-tokenomics__left-text{
+        margin: 0 20px 0 0;
+    }
+    .b-tokenomics__left .wrap-col .b-tokenomics__left-text:last-child{
+        margin-right: 0px;
+    }
+    .b-tokenomics__right{
+        width: auto;
+    }
+    .b-tokenomics{
+        padding: 0 0 32px 0;
+    }
+    .b-roadmap{
+        padding: 0 0 30px 0;
+    }
+    .b-roadmap__nav ul li a{
+        padding: 6.5px 9px;
+    }
+    .b-roadmap__desc{
+        font-size: 22px;
+        line-height: 25px;
+    }
+    .b-team__top{
+        margin: 0 0 25px 0;
+    }
+    .b-team__tabs .tab-pane{
+        background: rgba(255, 255, 255, 1);
+        z-index: 9999;
+    }
+    .b-team{
+        position: relative;
+        z-index: 9999;
+        background: none;
+    }
+    .b-meteorite:before{
+        display: none;
+    }
+    .bg-1{
+        background: none;
+    }
+    .b-tokenomics:before{
+        display: none;
+    }
+    .b-roadmap:before{
+        display: none;
+    }
+    .b-container{
+        background: url("../images/container-bg.png") center top no-repeat;
+        background-size: cover;
+    }
+    .b-news{
+        background: none;
+    }
+    .btn-buy{
+        width: 100%;
+        max-width: 500px;
+    }
+    .btn-video{
+        width: 100%;
+        max-width: 500px;
+    }
+    .b-expedition__block{
+        margin: 0 -15px;
+    }
+}
+
+@media (max-width: 550px) {
+    .b-team__top{
+        display: block;
+    }
+    .b-team__nav{
+        justify-content: center;
+        margin: 20px 0 0 0;
+    }
+    .b-meteorite__container-block{
+        top: auto;
+        bottom: -172px;
+    }
+}
+@media (max-width: 374px) {
+    .b-tokenomics__left .wrap-col .b-tokenomics__left-text {
+        margin: 0 19px 0 0;
+    }
+    .b-tokenomics__left-text span{
+        font-size: 10px;
+    }
+}
+@media (max-width: 320px) {
+/*    .bg-1{
+        background: url("../images/main-bg-mobile.png") center top no-repeat;
+    }*/
+}
