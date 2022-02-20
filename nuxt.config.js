@@ -74,7 +74,7 @@ export default {
 
     '@/assets/css/swiper.min.css',
     '@/assets/icomoon/style.css',
-    // '@/assets/css/jquery-ui.min.css',
+    '@/assets/css/jquery-ui.min.css',
     '@/assets/css/jquery.fancybox.min.css',
     '@/assets/css/responsive.css',
     '@/assets/icomoon/style.css'
