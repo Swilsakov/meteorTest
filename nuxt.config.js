@@ -63,7 +63,7 @@ export default {
         type: "text/javascript"
       },
       
-      {src:'~assets/js/script.js', type: 'text/javascript'}
+      // {src:'~assets/js/script.js', type: 'text/javascript'}
     ]
   },
 
@@ -71,6 +71,7 @@ export default {
   css: [
     '@/assets/css/main.css',
     '@/assets/css/animate.css',
+    '@/assets/css/footer.css',
 
     '@/assets/css/swiper.min.css',
     '@/assets/icomoon/style.css',
